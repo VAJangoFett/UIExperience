@@ -4,6 +4,6 @@
 
 Arthur V
 
-# lien heroku
+# lien GitHubpages
 
 https://vajangofett.github.io/UIExperience/
