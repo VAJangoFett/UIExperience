@@ -1,0 +1,23 @@
+.center {
+		display: flex;
+	justify-content: center;
+}
+
+.btn-blue {
+	font-family: 'Secular One', sans-serif;
+  background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(22,55,114,1) 19%, rgba(255,151,172,1) 75%);
+  border-radius: 11px;
+  color: black;
+  font-size: 16px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn-blue:hover {
+  background: rgb(22,55,114);
+	background: radial-gradient(circle, rgba(22,55,114,1) 19%, rgba(175,0,0,1) 100%);
+  text-decoration: none;
+  color: #FFF;
+
+}
