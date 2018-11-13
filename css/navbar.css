@@ -29,7 +29,7 @@
     align-items: center;
 }
 
-.navbar, .nav-list, .nav-left {
+.navbar, .nav-list, .nav-right {
     margin: 0;
     padding: 0;
     display: flex;
@@ -47,12 +47,12 @@ li {
     margin-top: -10px;
 }
 
-.nav-left, .nav-right  {
+.nav-right, .nav-left  {
     display: flex;
     justify-content: right;
 }
 
-.nav-right {
+.nav-left {
     margin-left: 20px
 }
 
